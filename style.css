@@ -40,7 +40,7 @@ body{
     height: 180px;
     width: 180px;
     background: linear-gradient(
-        #3da5e0,
+        #32a5e4,
         #325ea5
     );
     border-radius: 50%;
@@ -89,7 +89,7 @@ h2{
 }
 @keyframes html-fill{
     100%{
-        width: 90%;
+        width: 68%;
     }
 }
 #css-bar{
@@ -97,7 +97,7 @@ h2{
 }
 @keyframes css-fill{
     100%{
-        width: 75%;
+        width: 67%;
     }
 }
 #js-bar{
@@ -105,14 +105,14 @@ h2{
 }
 @keyframes js-fill {
     100%{
-        width: 82%;
+        width: 32%;
     }
 }
-#jQuery-bar{
-    animation: jQuery-fill 2s forwards;
+#SQL-bar{
+    animation: SQL-fill 2s forwards;
 }
-@keyframes jQuery-fill{
+@keyframes SQL-fill{
     100%{
-        width: 68%;
+        width: 26%;
     }
 }
